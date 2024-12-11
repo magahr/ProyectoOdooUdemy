@@ -85,4 +85,6 @@ Control de Cambio:
 git commit -m "15-11-2024 - Creating the new project"
 git commit -m "10-12-2024 - Updating the new project"
 requirements.txt
+git commit -m "11-12-2024 - Updating some hide folder"
+requirements.txt
 source .venv/Scripts/activate
