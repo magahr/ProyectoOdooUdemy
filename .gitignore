@@ -191,7 +191,7 @@ ENV/
 env.bak/
 venv.bak/
 ##Dependencias ODOO
-odoo/
+##odoo/
 
 # Spyder project settings
 .spyderproject
