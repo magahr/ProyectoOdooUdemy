@@ -87,5 +87,7 @@ git commit -m "10-12-2024 - Updating the new project"
 requirements.txt
 git commit -m "11-12-2024 - Updating some hide folder"
 git commit -m "11-12-2024 - Updating hide folder ODOO"
+git commit -m "12-12-2024 - Creatin new module"
+git commit -m "13-12-2024 - Updating new module"
 requirements.txt
 source .venv/Scripts/activate
