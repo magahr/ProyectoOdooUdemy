@@ -89,3 +89,6 @@ git commit -m "30-12-2024 - Setting the project"
 
 requirements.txt
 source .venv/Scripts/activate
+
+
+voy por el modulo 9 de la session 2
