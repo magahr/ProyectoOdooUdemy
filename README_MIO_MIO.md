@@ -86,9 +86,10 @@ https://www.odoo.com/documentation/17.0/es_419/administration/on_premise/source.
 Control de Cambio:
 git commit -m "28-12-2024 - Creating the new project"
 git commit -m "30-12-2024 - Setting the project"
+git commit -m "31-12-2024 - Creating the new module"
 
 requirements.txt
 source .venv/Scripts/activate
 
 
-voy por el modulo 9 de la session 2
+voy por el modulo 13 de la session 2, Creatin our Module Structure
