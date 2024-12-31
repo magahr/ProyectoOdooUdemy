@@ -92,4 +92,4 @@ requirements.txt
 source .venv/Scripts/activate
 
 
-voy por el modulo 13 de la session 2, Creatin our Module Structure
+voy por el modulo 13 de la session 2, Creating our Module Structure
