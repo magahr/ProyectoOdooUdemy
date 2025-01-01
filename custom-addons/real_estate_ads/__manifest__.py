@@ -15,9 +15,6 @@
     # only loaded in demonstration mode
     'instalable':True,
     'application':True,
-    'license':'LGPL-3',
-    'demo': [
-        'demo/demo.xml',
-    ]
+    'license':'LGPL-3'
 }
 

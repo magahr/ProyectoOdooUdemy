@@ -76,7 +76,9 @@ pasos:
     source venv/Scripts/activate 
 
 7.- levantar el server.
-    python odoo-bin.py -r userodo -w admin -d odoodb 
+    ESTE ======= >>>>>>  python odoo-bin.py -r userodo -w admin -d odoodb 
+
+    python odoo-bin -c odoo.conf
 
     http://localhost:8040
 
@@ -87,6 +89,7 @@ Control de Cambio:
 git commit -m "28-12-2024 - Creating the new project"
 git commit -m "30-12-2024 - Setting the project"
 git commit -m "31-12-2024 - Creating the new module"
+git commit -m "01/01/2025 - Updating the new module"
 
 requirements.txt
 source .venv/Scripts/activate
